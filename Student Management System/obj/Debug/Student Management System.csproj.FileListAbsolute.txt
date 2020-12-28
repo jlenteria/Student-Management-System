@@ -1,0 +1,56 @@
+D:\jlenteria\Refresh\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+D:\jlenteria\Refresh\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+D:\jlenteria\Refresh\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+D:\jlenteria\Refresh\Student Management System\Student Management System\obj\Debug\Student Management System.csprojAssemblyReference.cache
+D:\jlenteria\Refresh\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+D:\jlenteria\Refresh\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+D:\jlenteria\Refresh\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+D:\jlenteria\Refresh\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+D:\jlenteria\Refresh\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+D:\jlenteria\Refresh\Student Management System\Student Management System\obj\Debug\Student_Management_System.StudenManagement.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student Management System.csprojAssemblyReference.cache
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.StudenManagement.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student Management System.exe
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student Management System.pdb
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\bin\Debug\Student Management System.exe.config
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\bin\Debug\Student Management System.exe
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\bin\Debug\Student Management System.pdb
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.StudentManagement.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.AddCourse.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.AddStudent.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.AddTeacher.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.AdminCourse.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.AdminStudent.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.AdminTeacher.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.AdminUser.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.StudentFees.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.ViewCourse.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.View_Student.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.ViewTeacher.resources
+F:\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.Completed.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\bin\Debug\Student Management System.exe.config
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\bin\Debug\Student Management System.exe
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\bin\Debug\Student Management System.pdb
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student Management System.csprojAssemblyReference.cache
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.AddCourse.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.AddStudent.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.AddTeacher.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.AdminCourse.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.AdminStudent.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.AdminTeacher.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.AdminUser.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.Completed.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.StudentFees.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.StudentManagement.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.ViewCourse.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.View_Student.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.ViewTeacher.resources
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student Management System.exe
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student Management System.pdb
+E:\Programming\C#\projects\SQL-Student-Management-System-using-.Net-master\Student Management System\obj\Debug\Student_Management_System.Login.resources
